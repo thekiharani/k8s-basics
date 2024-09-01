@@ -1,0 +1,3 @@
+fernetKey: xxx
+webserverSecretKey: xxx
+executor: KubernetesExecutor
